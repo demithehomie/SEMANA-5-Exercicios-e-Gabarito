@@ -21,3 +21,8 @@ https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/12-09-2
 https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/13-09-2022/PLATAFORMA
 
 ### QUINTA-FEIRA - 15/09/2022
+https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/15-09-2022/PLATAFORMA
+
+
+
+### TESOURO PROS CURIOSOS
