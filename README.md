@@ -15,6 +15,7 @@ https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/15-09-2
 ## Gabarito dos que foram para a plataforma
 
 ### SEGUNDA-FEIRA - 12/09/2022
+https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/12-09-2022/PLATAFORMA
 
 ### TERÇA-FEIRA - 13/09/2022
 
