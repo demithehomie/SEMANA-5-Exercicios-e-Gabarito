@@ -26,3 +26,4 @@ https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/15-09-2
 
 
 ### TESOURO PROS CURIOSOS
+https://github.com/demithehomie/SEMANA-5-Exercicios-e-Gabarito/tree/main/EXTRAS%20E%20AL%C3%89M
