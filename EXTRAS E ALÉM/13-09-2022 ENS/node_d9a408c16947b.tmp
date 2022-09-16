@@ -1,0 +1,8 @@
+let numero = 10;
+let valor = 0;
+// Enquanto o número for menor que 100
+while (numero < 100){
+    valor = valor + 2;
+    console.log("valor:" + valor);
+    
+}

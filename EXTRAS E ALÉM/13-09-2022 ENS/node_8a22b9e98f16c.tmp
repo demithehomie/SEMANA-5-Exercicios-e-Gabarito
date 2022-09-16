@@ -1,0 +1,51 @@
+
+		
+		var brancos = 0, nulos = 0, total_votos = 0
+		
+		var porcentagem_candidato_a, porcentagem_candidato_b
+		
+		var porcentagem_brancos, porcentagem_nulos
+		
+		
+		
+		do
+		{
+			
+			console.log("Digite seu candidato ou tecle zero para encerrar\n\n")
+			
+			console.log("  1 -> Candidato A\n")
+			console.log("  2 -> Candidato B\n")
+			console.log("  3 -> Branco\n")
+			
+			console.log("\nQualquer número diferente de 0, 1, 2 e 3 anulará o seu voto\n")
+
+            //altere a variável para alterar o switch - case
+            var voto = 1
+			
+			
+
+			switch(voto)
+			{
+				case 0:
+					console.log("Votação encerrada!\n")
+				break
+				
+				case 1: 
+                    console.log("Voto para o candidato A") // Soma um voto para o candidato A
+			 	break
+			 	
+			 	case 2: 
+                    console.log("Voto para o candidato B") // Soma um voto para o candidado B
+			 	break
+			 	
+			 	case 3: 
+                    console.log("Voto EM BRANCO") // Soma um voto em branco
+			 	break
+			 	
+			 	case contrario:
+                    console.log("Voto NULO") // Opção inválida. Soma um voto nulo
+			}			 
+		}
+		while(voto != 0)
+
+	
